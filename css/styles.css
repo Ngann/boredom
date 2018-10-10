@@ -1,0 +1,10 @@
+.intro {
+  font-style: italic;
+  color: blue;
+  width: 50%;
+  margin-left: 70px;
+}
+
+img.intro {
+border: 7px solid green;
+}
